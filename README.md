@@ -13,8 +13,3 @@ I also do some YouTube Videos (gaming) in my spare time.
 ### Hit me up on twitter if you need to talk, I guess
 
 Twitter: @DragonDude1070
-
-<!---
-mazin6341/mazin6341 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
